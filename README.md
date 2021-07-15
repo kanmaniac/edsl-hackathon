@@ -4,17 +4,10 @@
 ### Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Demo](#demo)
   * [Learning Objective](#Learning-Objective)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
-  * [To Do](#to-do)
-  * [Installation](#installation)
-  * [Run](#run)
-  * [Bug / Feature Request](#bug---feature-request)
-  * [Team](#team)
-  * [License](#license)
-  * [Credits](#credits)
+
 
 
 ### Overview 
