@@ -1,4 +1,4 @@
-## End-to-End Diabetes Prediction Application using Machine Learning (MINI Project)  
+## Diabetes Prediction Application using Machine Learning
 
 
 ### Table of Content
@@ -31,8 +31,6 @@ The motivation was to experiment  with end to end machine learning project and g
 Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not.".
 This is also sort of fun to work on a project like this which could be beneficial for the society. 
 
-### Demo
-[Visit this link for live demo](https://mldiabete.herokuapp.com/)
 
 ### Learning Objective
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end ML project.)  
@@ -63,25 +61,3 @@ The following points were the objective of the project . If you are looking for 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/issues) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
-
-
-### Installation 
-- Clone this repository and unzip it.
-- After downloading, cd into the flask directory.
-- Begin a new virtual environment with Python 3 and activate it.
-- Install the required packages using pip install -r requirements.txt
-- Execute the command: python app.py
-
-### Team  
-[![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
--|
-[Ditikrushan Giri](https://ditikrushna.me/) |)
-
-
-### Credits 
-- Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
-- Icons by [Icons8](https://icons8.com/)
-
-### Note:
-- Webapp can handle concurrency upto some extent but can be scaled.
-
